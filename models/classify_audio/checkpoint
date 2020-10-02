@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\kapad\\Desktop\\AudioClassifier\\models\\classify_audio\\component_5_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\kapad\\Desktop\\AudioClassifier\\models\\classify_audio\\component_5_EmbeddingIntentClassifier.ckpt"

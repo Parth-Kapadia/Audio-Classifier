@@ -1,0 +1,201 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "New_Vehicle_Purchase_Enquiries",
+        "text": "i would like information on purchasing a new vehicle"
+      },
+      {
+        "intent": "New_Vehicle_Purchase_Enquiries",
+        "text": "can i install cng kit on all variant mentioned above from respective dealers"
+      },
+      {
+        "intent": "New_Vehicle_Purchase_Enquiries",
+        "text": "what after sales service and cost of parts for long term point of view"
+      },
+      {
+        "intent": "New_Vehicle_Purchase_Enquiries",
+        "text": "still confused between hatchback or compact sedan"
+      },
+      {
+        "intent": "New_Vehicle_Purchase_Enquiries",
+        "text": "tell  me city mileage"
+      },
+      {
+        "intent": "New_Vehicle_Purchase_Enquiries",
+        "text": "requirements"
+      },
+      {
+        "intent": "New_Vehicle_Purchase_Enquiries",
+        "text": "budget"
+      },
+      {
+        "intent": "New_Vehicle_Purchase_Enquiries",
+        "text": "orange book value"
+      },
+      {
+        "intent": "New_Vehicle_Purchase_Enquiries",
+        "text": "dealership"
+      },
+      {
+        "intent": "New_Vehicle_Purchase_Enquiries",
+        "text": "reviews"
+      },
+      {
+        "intent": "New_Vehicle_Purchase_Enquiries",
+        "text": "consulting"
+      },
+      {
+        "intent": "New_Vehicle_Purchase_Enquiries",
+        "text": "offers"
+      },
+      {
+        "intent": "New_Vehicle_Purchase_Enquiries",
+        "text": "discount"
+      },
+      {
+        "intent": "Test_Drive_Requests",
+        "text": "test drive"
+      },
+      {
+        "intent": "Test_Drive_Requests",
+        "text": "i would like to take it for a drive"
+      },
+      {
+        "intent": "Test_Drive_Requests",
+        "text": "take a test drive"
+      },
+      {
+        "intent": "Breakdown",
+        "text": "have you ever broken down and been stuck on the side of the road"
+      },
+      {
+        "intent": "Breakdown",
+        "text": "my vehicle is under breakdown"
+      },
+      {
+        "intent": "Breakdown",
+        "text": "is it on the road"
+      },
+      {
+        "intent": "Breakdown",
+        "text": "near your garage"
+      },
+      {
+        "intent": "Breakdown",
+        "text": "engineer on spot"
+      },
+      {
+        "intent": "Breakdown",
+        "text": "low battery"
+      },
+      {
+        "intent": "Breakdown",
+        "text": "engine problems"
+      },
+      {
+        "intent": "Breakdown",
+        "text": "transmission trouble"
+      },
+      {
+        "intent": "Breakdown",
+        "text": "brake trouble"
+      },
+      {
+        "intent": "Breakdown",
+        "text": "flat tire"
+      },
+      {
+        "intent": "Breakdown",
+        "text": "running out of gas"
+      },
+      {
+        "intent": "Breakdown",
+        "text": "spark plugs can break"
+      },
+      {
+        "intent": "Feedback",
+        "text": "trying to assess feedback"
+      },
+      {
+        "intent": "Feedback",
+        "text": "was the engineer available on time"
+      },
+      {
+        "intent": "Feedback",
+        "text": "form submitted action"
+      },
+      {
+        "intent": "Feedback",
+        "text": "please find form details situation awareness"
+      },
+      {
+        "intent": "Feedback",
+        "text": "how vehicle impacts driver"
+      },
+      {
+        "intent": "Feedback",
+        "text": "fixed"
+      },
+      {
+        "intent": "Feedback",
+        "text": "excellent"
+      },
+      {
+        "intent": "Feedback",
+        "text": "professional"
+      },
+      {
+        "intent": "Feedback",
+        "text": "reliable"
+      },
+      {
+        "intent": "Feedback",
+        "text": "convenient"
+      },
+      {
+        "intent": "Feedback",
+        "text": "efficient"
+      },
+      {
+        "intent": "Vehicle_Quality",
+        "text": "Long-term reputation"
+      },
+      {
+        "intent": "Vehicle_Quality",
+        "text": "Vehicle Class"
+      },
+      {
+        "intent": "Vehicle_Quality",
+        "text": "Features"
+      },
+      {
+        "intent": "Vehicle_Quality",
+        "text": "Repairability"
+      },
+      {
+        "intent": "Vehicle_Quality",
+        "text": "Dealership performance"
+      },
+      {
+        "intent": "Vehicle_Quality",
+        "text": "brakes not working"
+      },
+      {
+        "intent": "Vehicle_Quality",
+        "text": "headlights not working"
+      },
+      {
+        "intent": "Vehicle_Quality",
+        "text": "turn signals"
+      },
+      {
+        "intent": "Vehicle_Quality",
+        "text": "reversing lights"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
